@@ -12,7 +12,7 @@
 
 ```bash
 brew tap AdoptOpenJDK/openjdk
-brew install —cask adoptopenjdk11
+brew install --cask adoptopenjdk11
 ```
 
 # IntelliJ IDEA Ultimate
