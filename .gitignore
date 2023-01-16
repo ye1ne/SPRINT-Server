@@ -20,7 +20,7 @@ bin/
 ### IntelliJ IDEA ###
 .idea
 *.iws
-*.iml
+*.imlz
 *.ipr
 out/
 !**/src/main/**/out/
@@ -38,3 +38,9 @@ out/
 
 ### MacOS ###
 .DS_Store
+
+### Docker ###
+src/main/resources/*.properties
+src/main/resources/*.yml
+src/test/**/*.properties
+src/test/**/*.yml
